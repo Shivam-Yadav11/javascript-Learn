@@ -218,7 +218,7 @@ A beginner-friendly JavaScript repository that demonstrates fundamental concepts
 ## 📁 Folder Structure
 
 ```text
-.
+03_Function_js/
 ├── 01_function_parameter.js
 ├── 02_function_objects_array.js
 ├── 03_scope.js
@@ -318,20 +318,26 @@ node 05_IIFE.js
 
 
 # 📘 04_Conditional_Loop_js 
-# 🚀JavaScript Control Flow: If-Else, Switch, Truthy/Falsy & Loops
+# 🚀JavaScript: Conditionals, Loops, and Higher-Order Array Methods
 
-This JavaScript repository that demonstrates the core concepts of control flow, including conditional statements, truthy and falsy values, nullish coalescing, ternary operators, and loops.
+This repository contains JavaScript examples covering conditional statements, loops, truthy/falsy values, and higher-order array methods. It is designed for beginners who want to build a strong foundation in JavaScript programming.
+
 
 ---
 
 ## 📁 Folder Structure
 
 ```text
-.
+04_Conditional_Loop_js/ 
 ├── 01_if_else.js
 ├── 02_switch.js
 ├── 03_truthy_false.js
-└── 04_loops.js
+├── 04_loops.js
+├── 05_highorder_loop.js
+├── 06_filter.js
+├── 07_map.js
+└── 08_reduce.js
+
 ```
 
 ---
@@ -343,7 +349,11 @@ This JavaScript repository that demonstrates the core concepts of control flow, 
 | `01_if_else.js`      | Learn how to declare, use, and execute `if`, `else if`, and `else` statements for decision-making.                                     |
 | `02_switch.js`       | Learn how to declare, use, and execute `switch` statements to handle multiple conditions efficiently.                                  |
 | `03_truthy_false.js` | Learn about truthy and falsy values, the Nullish Coalescing Operator (`??`), and the Ternary Operator (`condition ? value1 : value2`). |
-| `04_loops.js`        | Learn how to declare and execute loops including `for`, `while`, and `do...while` loops.                                               |
+| `04_loops.js`        | Learn basic loops such as `for`, `while`, and `do...while`, including their syntax and usage.
+| `05_highorder_loop.js` | Learn higher-order loops including `for...of`,`for...in`, and `forEach()`, their syntax, and practical use cases.examples. |
+| `06_filter.js`         | Learn the `filter()` method, how to declare it, and where to use it for filtering data based on conditions.                                       |
+| `07_map.js`            | Learn the `map()` method, how to declare it, and where to use it for transforming array elements into a new array.                                |
+| `08_reduce.js`         | Learn the `reduce()` method, how to declare it, and where to use it for reducing an array into a single value such as a sum or total.             |
 
 ---
 
@@ -379,6 +389,18 @@ This JavaScript repository that demonstrates the core concepts of control flow, 
 * `while` Loop
 * `do...while` Loop
 * Loop Execution Flow
+
+### Higher-Order Loops
+* `for...of` Loop
+* `for...in` Loop
+* `forEach()` Method
+
+### Array Methods
+* `filter()` Method
+* `map()` Method
+* `reduce()` Method
+* Array Iteration
+
 
 ---
 
@@ -428,12 +450,26 @@ node 03_truthy_false.js
 ```bash
 node 04_loops.js
 ```
+```bash
+node 05_highorder_loop.js
+```
 
+```bash
+node 06_filter.js
+```
+
+```bash
+node 07_map.js
+```
+
+```bash
+node 08_reduce.js
+```
 ---
 
 ## 🎯 Purpose
 
-The purpose of this repository is to help beginners understand JavaScript control flow and decision-making concepts through practical examples.
+The purpose of this repository is to help How learn and practice JavaScript conditional statements, loops, higher-order loops, and array methods (`filter`, `map`, and `reduce`) through simple examples.
 
 After completing these examples, you will be able to:
 
@@ -443,6 +479,8 @@ After completing these examples, you will be able to:
 * Use the Ternary Operator for concise conditions
 * Create and execute loops efficiently
 * Understand how program flow works in JavaScript
+* Learn different JavaScript looping techniques `for...of`, `for...in` and `forEach()`
+* Understand `filter()`,  `map()` and `reduce()`
 
 ---
 
@@ -454,10 +492,18 @@ By the end of this repository, you will have a solid understanding of:
 * Control flow statements
 * Conditional operators
 * Iteration using loops
+*  Use `for...of` to iterate through iterable objects.
+* Use `for...in` to iterate through object properties.
+* Use `forEach()` to execute a function for each array element.
+* Use `filter()` to create filtered arrays.
+* Use `map()` to transform array data.
+* Use `reduce()` to aggregate array values into a single result.
 * Writing cleaner and more readable code
+  
 
 ---
 
 ⭐ If you find this repository helpful, consider giving it a star!
 
 * More topics will be added as I continue learning JavaScript.
+
