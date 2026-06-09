@@ -1,0 +1,11 @@
+1. DOM--> Document Object Model
+
+2. open browser console--> type console.dir(document) 
+
+3. textContent --> it give whole content , it means show hidden content hide by css
+
+4. innerText --> show of content , not give hidden content
+
+5. querSelector gives only one value
+
+6. querSelectorAll gives whole value in the form of NodeList
