@@ -500,8 +500,131 @@ By the end of this repository, you will have a solid understanding of:
 * Use `reduce()` to aggregate array values into a single result.
 * Writing cleaner and more readable code
   
+---
+# 📘 05_DOM_js
+# 🚀 JavaScript DOM Basics/ Fundamentals
+
+This repository contains beginner-friendly examples for learning **JavaScript DOM (Document Object Model)** manipulation. The examples demonstrate how to interact with HTML elements, create new elements dynamically, manage parent-child relationships, and edit or remove elements using JavaScript.
 
 ---
+
+## 📂 Folder Structure
+
+```text
+05_DOM_js/
+│
+├── 01_Basic.html
+├── 02_Notes.txt
+├── 03_creation_newelements.html
+├── 04_parent_child_relation.html
+└── 05_edit_remove.html
+```
+
+---
+
+## 📄 Files Description
+
+| File Name                       | Description                                                                                                                           |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| `01_Basic.html`                 | Introduction to JavaScript basics and how JavaScript works with the browser console.                                                  |
+| `02_Notes.txt`                  | Notes and important concepts related to JavaScript DOM manipulation.                                                                  |
+| `03_creation_newelements.html`  | Demonstrates how to create new HTML elements using JavaScript, apply styles, manipulate content, and display elements on the webpage. |
+| `04_parent_child_relation.html` | Shows how to select elements using IDs and classes, and explains parent-child relationships within the DOM.                           |
+| `05_edit_remove.html`           | Demonstrates how to insert, edit, replace, and remove DOM elements dynamically.                                                       |
+
+---
+
+## 📚 Topics Covered
+
+* Introduction to JavaScript DOM
+* Browser Console Basics
+* Selecting Elements
+
+  * `getElementById()`
+  * `getElementsByClassName()`
+  * `querySelector()`
+  * `querySelectorAll()`
+* Creating New Elements
+* Styling Elements with JavaScript
+* Appending Elements to the DOM
+* Parent-Child Relationships
+* Traversing DOM Nodes
+* Inserting Elements
+* Editing Existing Elements
+* Removing Elements
+* Dynamic DOM Manipulation
+
+---
+
+## 🛠️ Prerequisites
+
+Before running these examples, make sure you have:
+
+* Basic knowledge of HTML
+* Basic understanding of JavaScript
+* Any modern web browser:
+
+  * Google Chrome
+  * Mozilla Firefox
+  * Microsoft Edge
+  * Brave
+
+---
+
+## ▶️ How to Run
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/your-username/your-repository-name.git
+```
+
+2. Navigate to the project folder:
+
+```bash
+cd 05_DOM_js
+```
+
+3. Open any `.html` file in your browser.
+
+**OR**
+
+* Right-click on the HTML file.
+* Select **Open With** → Your Browser.
+
+4. Open the browser Developer Tools (`F12`) to view console outputs and inspect DOM changes.
+
+---
+
+## 🎯 Purpose
+
+The purpose of this repository is to provide hands-on practice with **JavaScript DOM manipulation**. It helps beginners understand how JavaScript interacts with HTML elements, modifies webpage content dynamically, and manages relationships between elements in the DOM tree.
+
+By completing these examples, learners will gain practical experience with:
+
+* DOM Selection
+* DOM Traversal
+* Element Creation
+* Styling via JavaScript
+* Inserting and Removing Elements
+* Real-time Webpage Manipulation
+
+---
+
+## 🚀 Learning Outcome
+
+After exploring this repository, you will be able to:
+
+* Select and manipulate HTML elements.
+* Create and append new DOM elements.
+* Understand parent-child relationships in the DOM.
+* Edit existing content dynamically.
+* Remove elements from the webpage.
+* Build interactive web pages using JavaScript.
+
+---
+
+### Happy Coding! 💻✨
 
 ⭐ If you find this repository helpful, consider giving it a star!
 
