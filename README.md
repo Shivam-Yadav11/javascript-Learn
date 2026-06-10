@@ -103,6 +103,7 @@ node 08_dates.js
 
 * This repository is created for learning and practicing **JavaScript fundamentals**. It serves as a quick reference for beginners who are starting their JavaScript journey.
 
+---
 
 # 📘 02_Array_Objects_js
 
@@ -717,6 +718,87 @@ These projects help in understanding:
 * Working with Time and Date
 * CSS Styling
 * Project Structure Organization
+  ---
+# 📘07_Events_js
+# 🚀JavaScript Events  
+
+Understanding and implementing JavaScript Events. This project demonstrates how user interactions trigger event listeners and how JavaScript responds to those actions dynamically.
+
+## 📂 Folder Structure
+
+```text
+07_Events_js/
+│
+├── index.html
+├── script.js
+└── README.md
+```
+
+## 📖 About this topic
+
+This topic is designed to help developers learn the fundamentals of JavaScript event handling.
+
+JavaScript events allow web pages to respond to user actions such as:
+
+* Mouse clicks
+* Double clicks
+* Mouse hover
+* Keyboard input
+* Form submissions
+* Page loading events
+
+## ✨ Features
+
+* Event Listener Implementation
+* DOM Interaction
+* Dynamic User Actions
+* Clean and Simple Structure
+* Beginner-Friendly Code
+
+## 🛠️ Technologies Used
+
+* HTML5
+* JavaScript (ES6)
+
+## 🚀 Getting Started
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/your-username/your-repository-name.git
+```
+
+### Run the Project
+
+1. Navigate to the project folder.
+2. Open `index.html` in your preferred browser.
+3. Interact with the page to see JavaScript events in action.
+
+## 📚 Concepts Covered
+
+* `addEventListener()`
+* Event Objects
+* Event Types
+
+  * click
+  * dblclick
+  * mouseover
+  * mouseout
+  * keydown
+  * keyup
+* Event Bubbling
+* Event Propagation
+* DOM Manipulation
+
+## 🎯 Learning Outcomes
+
+By completing this topic, you will understand:
+
+* How JavaScript handles user interactions
+* How to attach event listeners to elements
+* How events propagate through the DOM
+
+---
 
 
 ### Happy Coding! 💻✨
