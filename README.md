@@ -624,6 +624,101 @@ After exploring this repository, you will be able to:
 
 ---
 
+# 📘 06_project_js
+# 🚀 JavaScript simple Projects  
+
+A collection of beginner-friendly JavaScript projects built to practice HTML, CSS, and JavaScript fundamentals.
+
+## 📂 Project Structure
+
+```text
+06_project._js/
+│
+├── 01_Color_Switcher/
+│   ├── index.html
+│   ├── script.js
+│   └── style.css
+│
+├── 02_Clock/
+│   ├── index.html
+│   ├── script.js
+│   └── README.md
+│
+└── README.md
+```
+
+## 📌 Projects
+
+### 1. Color Switcher 🎨
+
+A simple web application that allows users to change the background color by clicking different color buttons.
+
+**Features:**
+
+* Dynamic background color changes
+* Clean and responsive UI
+* Beginner-friendly JavaScript implementation
+
+**Tech Stack:**
+
+* HTML5
+* CSS3
+* JavaScript (Vanilla JS)
+
+---
+
+### 2. Digital Clock ⏰
+
+A real-time digital clock that displays the current time and updates every second.
+
+**Features:**
+
+* Live time updates
+* Simple and elegant design
+* Uses JavaScript Date object
+
+**Tech Stack:**
+
+* HTML5
+* CSS3
+* JavaScript (Vanilla JS)
+
+---
+
+## 🛠️ Getting Started
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+```
+
+### Run Locally
+
+1. Open the project folder.
+2. Navigate to any project directory.
+3. Open `index.html` in your browser.
+
+Example:
+
+```bash
+cd 01_Color_Switcher
+```
+
+Then open `index.html`.
+
+## 📚 Learning Objectives
+
+These projects help in understanding:
+
+* DOM Manipulation
+* Event Handling
+* JavaScript Functions
+* Working with Time and Date
+* CSS Styling
+* Project Structure Organization
+
+
 ### Happy Coding! 💻✨
 
 ⭐ If you find this repository helpful, consider giving it a star!
