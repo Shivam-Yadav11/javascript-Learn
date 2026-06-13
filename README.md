@@ -640,12 +640,9 @@ A collection of beginner-friendly JavaScript projects built to practice HTML, CS
 │   ├── script.js
 │   └── style.css
 │
-├── 02_Clock/
-│   ├── index.html
-│   ├── script.js
-│   └── README.md
-│
-└── README.md
+└── 02_Clock/
+   ├── index.html
+   └── script.js
 ```
 
 ## 📌 Projects
@@ -729,9 +726,10 @@ Understanding and implementing JavaScript Events. This project demonstrates how 
 ```text
 07_Events_js/
 │
-├── index.html
-├── script.js
-└── README.md
+├── 01_index.html
+├── 01_script.js
+├── 02_index.html
+└── 02_script.js
 ```
 
 ## 📖 About this topic
